@@ -1,2 +1,3 @@
+Клонування документів з папки task 1 
 Git hub name.txt
 ipz232_tvo@student.ztu.edu.ua
